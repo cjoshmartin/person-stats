@@ -1,0 +1,13 @@
+body {
+  padding: 1rem;
+  background-color: #BBDEFB;
+}
+
+#go-button {
+  margin-left: -11px;
+}
+ul{
+  margin-top: 20px;
+  list-style-type: none;
+  border-radius: 5px;
+}

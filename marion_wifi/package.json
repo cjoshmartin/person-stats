@@ -1,0 +1,18 @@
+{
+  "name": "marion_wifi_fix",
+  "version": "0.0.1",
+  "description": "fix that the internet doesn't work",
+  "main": "index.js",
+  "author": "Josh Martin",
+  "license": "MIT",
+  "scripts": {
+    "start": "casperjs index.js"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "spooky": "^0.2.5"
+  },
+  "bin": {
+    "marion_wifi_fix": "./index.js"
+  }
+}
